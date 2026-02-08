@@ -2,3 +2,8 @@ keys/
 deploy_output.json
 venv/
 .env
+contracts/broadcast
+contracts/cache
+contracts/out
+p2p/__pycache__
+contracts/lib
